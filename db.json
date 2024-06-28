@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1ff0",
+      "product": "ring",
+      "price": "346"
+    },
+    {
+      "id": "936a",
+      "product": "dscbx",
+      "price": "553"
+    },
+    {
+      "id": "08bc",
+      "product": "ring",
+      "price": "1232"
+    }
+  ]
+}
